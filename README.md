@@ -6,13 +6,6 @@
 [![Sponsor me](https://github.com/overtrue/overtrue/blob/master/sponsor-me-button-s.svg?raw=true)](https://github.com/sponsors/overtrue)
 
 
-
-## 安装
-
-```shell
-composer require "overtrue/laravel-wechat"
-```
-
 ## 配置
 
 ### Laravel 应用
